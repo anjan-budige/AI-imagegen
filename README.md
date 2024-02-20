@@ -10,3 +10,6 @@ Explore the fusion of AI and creative expression with this project, leveraging t
 - 5+ Models
 - Stunning Presets
 - Less Time Generation
+
+## License
+This project is licensed under the [MIT License](LICENSE).
